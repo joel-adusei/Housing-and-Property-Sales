@@ -1,6 +1,6 @@
 # Project: Housing and Property Sales
 
-In this project, we will be doing a complete data analysis on housing and property sales to get useful information about it.
+In this project, I conduct a thorough data analysis on housing and property sales dataset to get useful information about it.
 
 ## Dataset Features:
 
